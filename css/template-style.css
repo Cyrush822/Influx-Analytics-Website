@@ -1677,7 +1677,7 @@ nav.fixed .left-menu, nav.fixed .right-menu {
 
 /* Menu dott color */
 .background-white-dott .top-nav > ul > li > a::before, .primary-color-white .background-primary-dott .top-nav > ul > li > a::before {background: #fff none repeat scroll 0 0;}
-.background-primary-dott .top-nav > ul > li > a::before, .primary-color-primary .background-primary-dott .top-nav > ul > li > a::before {background: #28a5df none repeat scroll 0 0;}
+.background-primary-dott .top-nav > ul > li > a::before, .primary-color-primary .background-primary-dott .top-nav > ul > li > a::before {background: #511bb8 none repeat scroll 0 0;}
 .background-dark-dott .top-nav > ul > li > a::before, .primary-color-dark .background-primary-dott .top-nav > ul > li > a::before {background: #434343 none repeat scroll 0 0;}
 
 /* Menu font color */
