@@ -19,57 +19,7 @@
 
   <body class="size-1280">
     <!-- HEADER -->
-    <header role="banner" class="position-absolute">
-      <!-- Top Navigation -->
-      <nav class="background-transparent background-primary-dott full-width sticky">
-        <div class="top-nav">
-          <!-- mobile version logo -->
-          <div class="logo hide-l hide-xl hide-xxl">
-             <a href="index.html" class="logo">
-              <!-- Logo White Version -->
-              <img class="logo-white" src="img/influx.png" alt="">
-              <!-- Logo Dark Version -->
-              <img class="logo-dark" src="img/Influx-Inversed.png" alt="">
-            </a>
-          </div>
-          <p class="nav-text"></p>
-
-          <!-- left menu items -->
-          <div class="top-nav left-menu">
-             <ul class="right top-ul chevron">
-                <li><a href="index.html">Home</a></li>
-                <li><a href="about-us.html">Our Mission</a></li>
-                <li><a href="services.html">Our Services</a></li>
-             </ul>
-          </div>
-
-          <!-- logo -->
-          <ul class="logo-menu">
-            <a href="index.html" class="logo">
-              <!-- Logo White Version -->
-              <img class="logo-white" src="img/influx.png" alt="">
-              <!-- Logo Dark Version -->
-              <img class="logo-dark" src="img/Influx-Inversed.png" alt="">
-            </a>
-          </ul>
-
-          <!-- right menu items -->
-          <div class="top-nav right-menu">
-             <ul class="top-ul chevron">
-                <li>
-                  <a>Our Stories</a>
-                  <ul>
-                    <li><a>Story 1</a></li>
-                    <li><a>Story 2</a></li>
-                  </ul>
-                </li>
-                <li><a href="gallery.html">About us</a></li>
-                <li><a href="contact.html">Contact</a></li>
-             </ul>
-          </div>
-        </div>
-      </nav>
-    </header>
+    <?php include 'includes/header.php'; ?>
 
     <!-- MAIN -->
     <main role="main">
@@ -95,7 +45,7 @@
       <section class="section-top-padding background-white">
         <div class="line text-center">
           <i class="icon-sli-heart text-primary text-size-40"></i>
-          <h2 class="text-dark text-size-50 text-m-size-40">Template <b>Features</b></h2>
+          <h2 class="text-dark text-size-50 text-m-size-40">Summary <b>of what we do</b></h2>
           <hr class="break background-primary break-small break-center margin-bottom-50">
         </div>
         <div class="line">
@@ -168,7 +118,7 @@
       <section class="section background-white">
         <div class="line text-center">
           <p class="text-primary text-size-20">Lorem ipsum dolor sit amet</p>
-          <h2 class="text-dark text-size-50 text-m-size-40">Responsive <b>Components</b></h2>
+          <h2 class="text-dark text-size-50 text-m-size-40">What <b>services we offer</b></h2>
           <i class="icon-chevron_down text-primary margin-bottom-50 text-size-20"></i>
         </div>
 
@@ -240,7 +190,7 @@
         </div>
         <div class="m-12 l-6 xl-7 xxl-8">
           <div class="l-12 xl-11 xxl-8 padding-2x">
-            <h2 class="text-l-size-40 text-size-50 text-white">Always <b>Nearby</b></h2>
+            <h2 class="text-l-size-40 text-size-50 text-white">Recent <b>Story</b></h2>
             <p class="margin-bottom">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
             Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip.</p>
             <!-- white Start your Business object -->
@@ -294,7 +244,7 @@
       <!-- Section 7 -->
       <section class="section-small-padding background-dark text-center">
         <div class="line">
-          <h2 class="text-white text-size-50 text-m-size-40 margin-bottom-20">Get <b>Free Version</b></h2>
+          <h2 class="text-white text-size-50 text-m-size-40 margin-bottom-20">Contact <b>Us</b></h2>
           <div class="m-10 l-6 xl-4 center">
             <div class="margin">
               <a class="s-12 m-6 margin-s-bottom" href="/">
@@ -311,64 +261,8 @@
     </main>
 
     <!-- FOOTER -->
-    <footer>
-      <!-- Social -->
-      <div class="background-primary padding text-center">
-        <a href="/"><i class="icon-facebook_circle text-size-25 text-dark"></i></a>
-        <a href="/"><i class="icon-twitter_circle text-size-25 text-dark"></i></a>
-        <a href="/"><i class="icon-google_plus_circle text-size-25 text-dark"></i></a>
-        <a href="/"><i class="icon-instagram_circle text-size-25 text-dark"></i></a>
-        <a href="/"><i class="icon-linked_in_circle text-size-25 text-dark"></i></a>
-      </div>
-      <!-- Main Footer -->
-      <section class="section background-dark">
-        <div class="line">
-          <div class="margin2x">
-            <div class="s-12 m-6 l-3 xl-5">
-               <h4 class="text-white text-strong">Our Mission</h4>
-               <p>
-                 <b class="text-size-20">Veri fastidii consectetuer</b> ius in, eum alii dicunt omnium eu. Wisi nostrud equidem ut usu. <b class="text-size-20">Deleniti pertinacia eu est</b>, te his soluta quaestio pericula.
-               </p>
-            </div>
-            <div class="s-12 m-6 l-3 xl-2">
-               <h4 class="text-white text-strong margin-m-top-30">Useful Links</h4>
-               <a class="text-primary-hover" href="page.html">FAQ</a><br>
-               <a class="text-primary-hover" href="contact.html">Contact Us</a><br>
-               <a class="text-primary-hover" href="blog.html">Blog</a>
-            </div>
-            <div class="s-12 m-6 l-3 xl-2">
-               <h4 class="text-white text-strong margin-m-top-30">Term of Use</h4>
-               <a class="text-primary-hover" href="page.html">Terms and Conditions</a><br>
-               <a class="text-primary-hover" href="page.html">Refund Policy</a><br>
-               <a class="text-primary-hover" href="page.html">Disclaimer</a>
-            </div>
-            <div class="s-12 m-6 l-3 xl-3">
-               <h4 class="text-white text-strong margin-m-top-30">Contact Us</h4>
-                <p><i class="icon-sli-screen-smartphone text-primary"></i> 0800 4521 800 50</p>
-                <a class="text-primary-hover" href="mailto:contact@sampledomain.com"><i class="icon-sli-mouse text-primary"></i> contact@sampledomain.com</a><br>
-                <a class="text-primary-hover" href="mailto:office@sampledomain.com"><i class="icon-sli-mouse text-primary"></i> office@sampledomain.com</a>
-            </div>
-          </div>
-        </div>
-      </section>
-      <div class="background-dark">
-         <div class="line">
-            <hr class="break margin-top-bottom-0" style="border-color: #777;">
-         </div>
-      </div>
-      <!-- Bottom Footer -->
-      <section class="padding-2x background-dark full-width">
-        <div class="line">
-          <div class="s-12 l-6">
-            <p class="text-size-12">Copyright 2019, Vision Design - graphic zoo</p>
-            <p class="text-size-12">All images have been purchased from Bigstock. Do not use the images in your website.</p>
-          </div>
-          <div class="s-12 l-6">
-            <a class="right text-size-12 text-primary-hover" href="http://www.myresponsee.com" title="Responsee - lightweight responsive framework">Design and coding<br> by Responsee Team</a>
-          </div>
-        </div>
-      </section>
-    </footer>
+    <?php include "includes/footer.php"; ?>
+
     <script type="text/javascript" src="js/responsee.js"></script>
     <script type="text/javascript" src="owl-carousel/owl.carousel.js"></script>
     <script type="text/javascript" src="js/template-scripts.js"></script>
