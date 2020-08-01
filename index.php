@@ -56,8 +56,8 @@
                 <i class="icon-sli-equalizer text-primary text-size-40 text-line-height-1"></i>
               </div>
               <div class="margin-left-60">
-                <h3 class="text-strong text-size-20 text-line-height-1 margin-bottom-20">Unlimited Color Variants</h3>
-                <p>Hendrerit in vulputate duis autem vel eum iriure dolor in velit esse molestie consequat, vel illum dolore nulla facilisis</p>
+                <h3 class="text-strong text-size-20 text-line-height-1 margin-bottom-20">Up-to-date Analysis</h3>
+                <p>We collect the most current datasets and information to conduct our analysis.</p>
                 <a class="text-more-info text-primary" href="/">Read more</a>
               </div>
             </div>
@@ -66,8 +66,8 @@
                 <i class="icon-sli-layers text-primary text-size-40 text-line-height-1"></i>
               </div>
               <div class="margin-left-60">
-                <h3 class="text-strong text-size-20 text-line-height-1 margin-bottom-20">Many Reusable Elements</h3>
-                <p>Hendrerit in vulputate duis autem vel eum iriure dolor in velit esse molestie consequat, vel illum dolore nulla facilisis</p>
+                <h3 class="text-strong text-size-20 text-line-height-1 margin-bottom-20">AI Driven Models</h3>
+                <p>We uncover hidden information and insights through analytics powered by AI.</p>
                 <a class="text-more-info text-primary" href="/">Read more</a>
               </div>
             </div>
@@ -76,8 +76,8 @@
                 <i class="icon-sli-share text-primary text-size-40 text-line-height-1"></i>
               </div>
               <div class="margin-left-60">
-                <h3 class="text-strong text-size-20 text-line-height-1 margin-bottom-20">Clean Modern Code</h3>
-                <p>Hendrerit in vulputate duis autem vel eum iriure dolor in velit esse molestie consequat, vel illum dolore nulla facilisis</p>
+                <h3 class="text-strong text-size-20 text-line-height-1 margin-bottom-20">Holistic Perspective</h3>
+                <p>Our analysis not only looks at the numbers, but also considers the context of the data.</p>
                 <a class="text-more-info text-primary" href="/">Read more</a>
               </div>
             </div>
@@ -86,8 +86,8 @@
                 <i class="icon-sli-paper-plane text-primary text-size-40 text-line-height-1"></i>
               </div>
               <div class="margin-left-60">
-                <h3 class="text-strong text-size-20 text-line-height-1 margin-bottom-20">Parallax Background</h3>
-                <p>Hendrerit in vulputate duis autem vel eum iriure dolor in velit esse molestie consequat, vel illum dolore nulla facilisis</p>
+                <h3 class="text-strong text-size-20 text-line-height-1 margin-bottom-20">Reliable Partners</h3>
+                <p>We regard our clients’ data with utmost responsibility and privacy and only use data that we have been given permission to.</p>
                 <a class="text-more-info text-primary" href="/">Read more</a>
               </div>
             </div>
@@ -96,8 +96,8 @@
                 <i class="icon-sli-diamond text-primary text-size-40 text-line-height-1"></i>
               </div>
               <div class="margin-left-60">
-                <h3 class="text-strong text-size-20 text-line-height-1 margin-bottom-20">Responsive Layoute</h3>
-                <p>Hendrerit in vulputate duis autem vel eum iriure dolor in velit esse molestie consequat, vel illum dolore nulla facilisis</p>
+                <h3 class="text-strong text-size-20 text-line-height-1 margin-bottom-20">Open to Communication</h3>
+                <p>We respond to criticism and suggestions with openness and timeliness.</p>
                 <a class="text-more-info text-primary" href="/">Read more</a>
               </div>
             </div>
@@ -107,7 +107,7 @@
               </div>
               <div class="margin-left-60">
                 <h3 class="text-strong text-size-20 text-line-height-1 margin-bottom-20">And many more...</h3>
-                <p>Hendrerit in vulputate duis autem vel eum iriure dolor in velit esse molestie consequat, vel illum dolore nulla facilisis</p>
+                <p>In addition to providing clients with big data analytics, we carry out research projects and inquiries.</p>
                 <a class="text-more-info text-primary" href="/">Read more</a>
               </div>
             </div>
