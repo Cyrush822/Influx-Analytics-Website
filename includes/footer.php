@@ -4,13 +4,10 @@
 <!-- FOOTER -->
 <footer>
   <!-- Social -->
-  <div class="background-primary padding text-center">
-    <a href="/"><i class="icon-facebook_circle text-size-25 text-dark"></i></a>
-    <a href="/"><i class="icon-twitter_circle text-size-25 text-dark"></i></a>
-    <a href="/"><i class="icon-google_plus_circle text-size-25 text-dark"></i></a>
+  <!-- <div class="background-primary padding text-center">
     <a href="/"><i class="icon-instagram_circle text-size-25 text-dark"></i></a>
     <a href="/"><i class="icon-linked_in_circle text-size-25 text-dark"></i></a>
-  </div>
+  </div> -->
   <!-- Main Footer -->
   <section class="section background-dark">
     <div class="line">
@@ -18,26 +15,19 @@
         <div class="s-12 m-6 l-3 xl-5">
            <h4 class="text-white text-strong">Our Mission</h4>
            <p>
-             <b class="text-size-20">Veri fastidii consectetuer</b> ius in, eum alii dicunt omnium eu. Wisi nostrud equidem ut usu. <b class="text-size-20">Deleniti pertinacia eu est</b>, te his soluta quaestio pericula.
+             We want to <b class="text-size-20">help out</b> the greater business communities by providing our insights regarding <b class="text-size-20">societal issues</b>: providing services to companies who are in need of <b class="text-size-20">top data analysis.</b>
+             To help out <b class="text-size-20">Greater business communities</b> by insights regarding<b class="text-size-20"> Societal issues</b>
            </p>
         </div>
-        <div class="s-12 m-6 l-3 xl-2">
+        <div class="s-12 m-6 l-3 xl-3">
            <h4 class="text-white text-strong margin-m-top-30">Useful Links</h4>
-           <a class="text-primary-hover" href="page.php">FAQ</a><br>
            <a class="text-primary-hover" href="contact.php">Contact Us</a><br>
-           <a class="text-primary-hover" href="blog.php">Blog</a>
-        </div>
-        <div class="s-12 m-6 l-3 xl-2">
-           <h4 class="text-white text-strong margin-m-top-30">Term of Use</h4>
-           <a class="text-primary-hover" href="page.php">Terms and Conditions</a><br>
-           <a class="text-primary-hover" href="page.php">Refund Policy</a><br>
-           <a class="text-primary-hover" href="page.php">Disclaimer</a>
+           <a class="text-primary-hover" href="gallery.php">Stories</a>
         </div>
         <div class="s-12 m-6 l-3 xl-3">
            <h4 class="text-white text-strong margin-m-top-30">Contact Us</h4>
-            <p><i class="icon-sli-screen-smartphone text-primary"></i> 0800 4521 800 50</p>
-            <a class="text-primary-hover" href="mailto:contact@sampledomain.com"><i class="icon-sli-mouse text-primary"></i> contact@sampledomain.com</a><br>
-            <a class="text-primary-hover" href="mailto:office@sampledomain.com"><i class="icon-sli-mouse text-primary"></i> office@sampledomain.com</a>
+            <p><i class="icon-sli-screen-smartphone text-primary"></i> +86 177 2134 1972</p>
+            <a class="text-primary-hover" href="mailto:contact@influxanalytics.com"><i class="icon-sli-mouse text-primary"></i> contact@influxanalytics.com</a><br>
         </div>
       </div>
     </div>
@@ -47,16 +37,4 @@
         <hr class="break margin-top-bottom-0" style="border-color: #777;">
      </div>
   </div>
-  <!-- Bottom Footer -->
-  <section class="padding-2x background-dark full-width">
-    <div class="line">
-      <div class="s-12 l-6">
-        <p class="text-size-12">Copyright 2019, Vision Design - graphic zoo</p>
-        <p class="text-size-12">All images have been purchased from Bigstock. Do not use the images in your website.</p>
-      </div>
-      <div class="s-12 l-6">
-        <a class="right text-size-12 text-primary-hover" href="http://www.myresponsee.com" title="Responsee - lightweight responsive framework">Design and coding<br> by Responsee Team</a>
-      </div>
-    </div>
-  </section>
 </footer>

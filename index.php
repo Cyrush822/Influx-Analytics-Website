@@ -45,60 +45,60 @@
       <!-- Section 2 -->
       <section class="section-top-padding background-white">
         <div class="line text-center">
-          <i class="icon-sli-heart text-primary text-size-40"></i>
-          <h2 class="text-dark text-size-50 text-m-size-40">Summary <b>of what we do</b></h2>
+          <!-- <img class="logo-white small-logo" src="img/logo-dark.png" alt=""> -->
+          <h2 class="text-dark text-size-50 text-m-size-40"><b>What we do</b></h2>
           <hr class="break background-primary break-small break-center margin-bottom-50">
         </div>
-        <div class="line">
+        <div class="line margin-bottom-50">
           <div class="margin2x">
             <div class="s-12 m-6 l-4 margin-bottom-60">
               <div class="float-left">
-                <i class="icon-sli-equalizer text-primary text-size-40 text-line-height-1"></i>
+                <i class="icon-reload text-primary text-size-40 text-line-height-1"></i>
               </div>
               <div class="margin-left-60">
                 <h3 class="text-strong text-size-20 text-line-height-1 margin-bottom-20">Up-to-date Analysis</h3>
                 <p>We collect the most current datasets and information to conduct our analysis.</p>
-                <a class="text-more-info text-primary" href="/">Read more</a>
+                <!-- <a class="text-more-info text-primary" href="/">Read more</a> -->
               </div>
             </div>
             <div class="s-12 m-6 l-4 margin-bottom-60">
               <div class="float-left">
-                <i class="icon-sli-layers text-primary text-size-40 text-line-height-1"></i>
+                <i class="icon-spread text-primary text-size-40 text-line-height-1"></i>
               </div>
               <div class="margin-left-60">
                 <h3 class="text-strong text-size-20 text-line-height-1 margin-bottom-20">AI Driven Models</h3>
                 <p>We uncover hidden information and insights through analytics powered by AI.</p>
-                <a class="text-more-info text-primary" href="/">Read more</a>
+                <!-- <a class="text-more-info text-primary" href="/">Read more</a> -->
               </div>
             </div>
             <div class="s-12 m-6 l-4 margin-bottom-60">
               <div class="float-left">
-                <i class="icon-sli-share text-primary text-size-40 text-line-height-1"></i>
+                <i class="icon-node_cluster text-primary text-size-40 text-line-height-1"></i>
               </div>
               <div class="margin-left-60">
                 <h3 class="text-strong text-size-20 text-line-height-1 margin-bottom-20">Holistic Perspective</h3>
                 <p>Our analysis not only looks at the numbers, but also considers the context of the data.</p>
-                <a class="text-more-info text-primary" href="/">Read more</a>
+                <!-- <a class="text-more-info text-primary" href="/">Read more</a> -->
               </div>
             </div>
             <div class="s-12 m-6 l-4 margin-m-bottom-60">
               <div class="float-left">
-                <i class="icon-sli-paper-plane text-primary text-size-40 text-line-height-1"></i>
+                <i class="icon-link text-primary text-size-40 text-line-height-1"></i>
               </div>
               <div class="margin-left-60">
                 <h3 class="text-strong text-size-20 text-line-height-1 margin-bottom-20">Reliable Partners</h3>
                 <p>We regard our clients’ data with utmost responsibility and privacy and only use data that we have been given permission to.</p>
-                <a class="text-more-info text-primary" href="/">Read more</a>
+                <!-- <a class="text-more-info text-primary" href="/">Read more</a> -->
               </div>
             </div>
             <div class="s-12 m-6 l-4 margin-m-bottom-60">
               <div class="float-left">
-                <i class="icon-sli-diamond text-primary text-size-40 text-line-height-1"></i>
+                <i class="icon-discussion text-primary text-size-40 text-line-height-1"></i>
               </div>
               <div class="margin-left-60">
                 <h3 class="text-strong text-size-20 text-line-height-1 margin-bottom-20">Open to Communication</h3>
                 <p>We respond to criticism and suggestions with openness and timeliness.</p>
-                <a class="text-more-info text-primary" href="/">Read more</a>
+                <!-- <a class="text-more-info text-primary" href="/">Read more</a> -->
               </div>
             </div>
             <div class="s-12 m-6 l-4 margin-m-bottom-60">
@@ -108,7 +108,7 @@
               <div class="margin-left-60">
                 <h3 class="text-strong text-size-20 text-line-height-1 margin-bottom-20">And many more...</h3>
                 <p>In addition to providing clients with big data analytics, we carry out research projects and inquiries.</p>
-                <a class="text-more-info text-primary" href="/">Read more</a>
+                <!-- <a class="text-more-info text-primary" href="/">Read more</a> -->
               </div>
             </div>
           </div>
@@ -116,7 +116,7 @@
       </section>
 
       <!-- Section 3 -->
-      <section class="section background-white">
+      <!-- <section class="section background-white">
         <div class="line text-center">
           <p class="text-primary text-size-20">Lorem ipsum dolor sit amet</p>
           <h2 class="text-dark text-size-50 text-m-size-40">What <b>services we offer</b></h2>
@@ -124,9 +124,9 @@
         </div>
 
         <div class="l-12 xl-7 center">
-          <div class="margin">
+          <div class="margin"> -->
             <!-- Left Column -->
-            <div class="s-12 m-12 l-4 text-right">
+            <!-- <div class="s-12 m-12 l-4 text-right">
               <div class="margin-right-50">
                 <i class="icon-sli-paper-plane text-primary text-size-40 margin-bottom-20"></i>
                 <h3 class="text-strong text-size-20 text-line-height-1 margin-bottom-20">Responsive Carousel</h3>
@@ -142,10 +142,10 @@
                 <h3 class="text-strong text-size-20 text-line-height-1 margin-bottom-20">Tabs with URL Hash</h3>
                 <p>Hendrerit in vulputate duis autem vel eum iriure dolor in velit esse molestie consequat, dolore nulla facilisis</p>
               </div>
-            </div>
+            </div> -->
 
             <!-- Middle Column (carousel)-->
-            <div class="s-12 m-12 l-4">
+            <!-- <div class="s-12 m-12 l-4">
               <div class="carousel-default owl-carousel carousel-hide-arrows margin-m-top-bottom-50">
                 <div class="item">
                   <img src="img/responsive-01.png"/>
@@ -160,10 +160,10 @@
                   <img src="img/responsive-04.png"/>
                 </div>
               </div>
-            </div>
+            </div> -->
 
             <!-- Right Column -->
-            <div class="s-12 m-12 l-4">
+            <!-- <div class="s-12 m-12 l-4">
                <div class="margin-left-50">
                 <i class="icon-sli-heart text-primary text-size-40 margin-bottom-20"></i>
                 <h3 class="text-strong text-size-20 text-line-height-1 margin-bottom-20">Unlimited Color Variants</h3>
@@ -182,7 +182,7 @@
             </div>
           </div>
         </div>
-      </section>
+      </section> -->
 
       <!-- Section 4 -->
       <section class="background-primary full-width">
@@ -194,72 +194,9 @@
             <h2 class="text-l-size-40 text-size-50 text-white">Recent <b>Story</b></h2>
             <p class="margin-bottom">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
             Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip.</p>
-            <!-- white Start your Business object -->
-            <img class="margin-left-20 margin-top-30 margin-bottom-60" src="img/start-your-business.svg" alt="">
           </div>
         </div>
       </section>
-
-      <!-- Section 5 -->
-      <section class="section-small-padding background-grey">
-        <div class="margin2x">
-           <div class="m-6 l-1">
-              <img class="margin-bottom" src="img/logo-1.png"/>
-           </div>
-           <div class="m-6 l-1">
-              <img class="margin-bottom" src="img/logo-2.png"/>
-           </div>
-           <div class="m-6 l-1">
-              <img class="margin-bottom" src="img/logo-3.png"/>
-           </div>
-           <div class="m-6 l-1">
-              <img class="margin-bottom" src="img/logo-1.png"/>
-           </div>
-           <div class="m-6 l-1">
-              <img class="margin-bottom" src="img/logo-4.png"/>
-           </div>
-           <div class="m-6 l-1">
-              <img class="margin-bottom" src="img/logo-5.png"/>
-           </div>
-           <div class="m-6 l-1">
-              <img class="margin-bottom" src="img/logo-3.png"/>
-           </div>
-           <div class="m-6 l-1">
-              <img class="margin-bottom" src="img/logo-1.png"/>
-           </div>
-           <div class="m-6 l-1">
-              <img class="margin-bottom" src="img/logo-5.png"/>
-           </div>
-           <div class="m-6 l-1">
-              <img class="margin-bottom" src="img/logo-4.png"/>
-           </div>
-           <div class="m-6 l-1">
-              <img class="margin-bottom" src="img/logo-1.png"/>
-           </div>
-           <div class="m-6 l-1">
-              <img class="margin-bottom" src="img/logo-2.png"/>
-           </div>
-        </div>
-      </section>
-
-      <!-- Section 7 -->
-      <section class="section-small-padding background-dark text-center">
-        <div class="line">
-          <h2 class="text-white text-size-50 text-m-size-40 margin-bottom-20">Contact <b>Us</b></h2>
-          <div class="m-10 l-6 xl-4 center">
-            <div class="margin">
-              <a class="s-12 m-6 margin-s-bottom" href="/">
-                <img class="full-img right" src="img/google-play.svg" alt="">
-              </a>
-              <a class="s-12 m-6" href="/">
-                <img class="full-img" src="img/app-store.svg" alt="">
-              </a>
-            </div>
-          </div>
-        </div>
-      </section>
-
-    </main>
 
     <!-- FOOTER -->
     <?php include "includes/footer.php"; ?>

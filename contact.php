@@ -18,9 +18,6 @@
   </head>
 
   <body class="size-1280">
-    <!-- PREMIUM FEATURES BUTTON -->
-  	<a target="_blank" class="hide-s" href="../template/virtua-premium-responsive-business-template/" style="position:fixed;top:120px;right:-14px;z-index:10;"><img src="img/premium-features.png" alt=""></a>
-
     <!-- HEADER -->
     <?php include 'includes/header.php'; ?>
 
@@ -32,7 +29,7 @@
           <h1 class="animated-element slow text-extra-thin text-white text-s-size-30 text-m-size-40 text-size-50 text-line-height-1 margin-bottom-30 margin-top-130">
             Contact Us
           </h1>
-          <p class="animated-element text-white">Duis autem vel eum iriure dolor in hendrerit in</p>
+          <p class="animated-element text-white"></p>
 
           <!-- white full width arrow object -->
           <img class="arrow-object" src="img/arrow-object-white.svg" alt="">
@@ -41,7 +38,7 @@
         <!-- Section 1 -->
         <section class="section-small-padding background-white text-center">
           <div class="line">
-            <i class="icon-sli-heart text-primary text-size-40"></i>
+            <!-- <i class="icon-sli-heart text-primary text-size-40"></i> -->
             <h2 class="text-dark text-size-50 text-m-size-40">We are here for you <b class="text-primary">24/7</b></h2>
           </div>
         </section>
@@ -58,8 +55,8 @@
                   </div>
                   <div class="margin-left-60">
                     <h2 class="text-size-20 margin-bottom-10 text-strong">Company Address</h2>
-                    <p>Aviation Way 99</p>
-                    <p>Los Angeles, USA</p>
+                    <p>Huang Yang rd, 345</p>
+                    <p>Shanghai, China</p>
                   </div>
                 </div>
 
@@ -69,8 +66,7 @@
                   </div>
                   <div class="margin-left-60">
                     <h2 class="text-size-20 margin-bottom-10 text-strong">E-mail</h2>
-                    <p><a class="text-primary-hover" href="mailto:contact@sampledomain.com">contact@sampledomain.com</a></p>
-                    <p><a class="text-primary-hover" href="mailto:office@sampledomain.com">office@sampledomain.com</a></p>
+                    <p><a class="text-primary-hover" href="mailto:contact@influxanalytics.org">contact@influxanalytics.org</a></p>
                   </div>
                 </div>
 
@@ -80,26 +76,24 @@
                   </div>
                   <div class="margin-left-60">
                     <h2 class="text-size-20 margin-bottom-10 text-strong">Phone Numbers</h2>
-                    <p>0800 4521 800 50</p>
-                    <p>0450 5896 625 16</p>
-                    <p>0798 6546 465 </p>
+                    <p>+86 177 2134 1972</p>
                   </div>
                 </div>
 
-                <div class="l-12 xl-6">
+                <!-- <div class="l-12 xl-6">
                   <div class="float-left">
                     <i class="icon-sli-paper-plane text-primary text-size-40 text-line-height-1"></i>
                   </div>
                   <div class="margin-left-60">
                     <h2 class="text-size-20 margin-bottom-10 text-strong">Billing information</h2>
                     <p>Hendrerit in vulputate duis autem vel eum iriure dolor in velit esse molestie consequat, vel illum dolore nulla facilisis</p>
-                  </div>
+                  </div> -->
                 </div>
               </div>
             </div>
           </div>
           <div class="m-12 l-6">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d1459734.5702753505!2d16.91089086619977!3d48.577103681657675!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ssk!2ssk!4v1457640551761" width="100%" height="600" frameborder="0" style="border:0"></iframe>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3411.3505047671456!2d121.58918431505167!3d31.238718981463748!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x35b2765cf859bf73%3A0xa8bd7fe52aba1da8!2sConcordia%20International%20School%20Shanghai!5e0!3m2!1sen!2stw!4v1596644488210!5m2!1sen!2stw" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>" width="100%" height="600" frameborder="0" style="border:0"></iframe>
           </div>
         </section>
 
@@ -126,7 +120,7 @@
                 <div class="s-12">
                   <textarea name="message" class="required message" placeholder="Your message" rows="3"></textarea>
                 </div>
-                <div class="s-12"><button class="button border-radius text-white background-primary" type="submit">Submit Button</button></div>
+                <div class="s-12"><button class="button border-radius text-white background-primary" type="submit">Send!</button></div>
               </div>
             </form>
           </div>
@@ -136,7 +130,7 @@
 
     <!-- FOOTER -->
     <?php include "includes/footer.php"; ?>
-    
+
     <script type="text/javascript" src="js/responsee.js"></script>
     <script type="text/javascript" src="owl-carousel/owl.carousel.js"></script>
     <script type="text/javascript" src="js/template-scripts.js"></script>

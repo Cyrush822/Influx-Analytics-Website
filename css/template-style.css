@@ -1850,3 +1850,11 @@ a.tab-label.active-btn {
     padding: 30px !important;
   }
 }
+
+.small-logo {
+  height: 3.5rem;
+  width: 3.5rem;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}

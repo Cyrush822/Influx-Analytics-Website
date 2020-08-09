@@ -20,7 +20,7 @@
       <div class="top-nav left-menu">
          <ul class="right top-ul chevron">
             <li><a href="index.php">Home</a></li>
-            <li><a href="about-us.php">Our Mission</a></li>
+            <li><a href="our-mission.php">Our Mission</a></li>
             <li><a href="services.php">Our Services</a></li>
          </ul>
       </div>
@@ -45,7 +45,7 @@
                 <li><a>Story 2</a></li>
               </ul>
             </li>
-            <li><a href="gallery.php">About us</a></li>
+            <li><a href="about-us.php">About us</a></li>
             <li><a href="contact.php">Contact</a></li>
          </ul>
       </div>

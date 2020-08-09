@@ -20,7 +20,6 @@
   <body class="size-1280">
     <!-- PREMIUM FEATURES BUTTON -->
   	<a target="_blank" class="hide-s" href="../template/virtua-premium-responsive-business-template/" style="position:fixed;top:120px;right:-14px;z-index:10;"><img src="img/premium-features.png" alt=""></a>
-
     <!-- HEADER -->
     <?php include 'includes/header.php'; ?>
 
@@ -28,11 +27,10 @@
     <main role="main">
       <article>
         <!-- Header -->
-        <header class="section background-image text-center" style="background-image:url(img/img-05.jpg)">
+        <header class="section background-image text-center" style="background-image:url(img/carousel-02.jpg)">
           <h1 class="animated-element slow text-extra-thin text-white text-s-size-30 text-m-size-40 text-size-50 text-line-height-1 margin-bottom-30 margin-top-130">
-            Our Mission
+            Meet the team
           </h1>
-          <p class="animated-element text-white">Duis autem vel eum iriure dolor in hendrerit in</p>
 
           <!-- white full width arrow object -->
           <img class="arrow-object" src="img/arrow-object-white.svg" alt="">
@@ -40,33 +38,73 @@
 
         <!-- Section 1 -->
         <section class="section background-white">
-          <div class="line text-center">
-            <i class="icon-sli-heart text-primary text-size-40"></i>
-            <h2 class="text-dark text-size-50 text-m-size-40">Why <b>are we doing this?</b></h2>
-            <hr class="break background-primary break-small break-center margin-bottom-50">
-          </div>
           <div class="line">
             <div class="margin2x">
-              <div class="m-12 l-6 margin-m-bottom-30">
-                <img src="img/img-01.jpg" alt="">
-              </div>
-              <div class="m-12 l-6">
-                <h3 class="animated-element text-strong text-size-20 text-line-height-1 margin-bottom-20">What's the problem?</h3>
-                <p class="animated-element slow margin-bottom-30">Hendrerit in vulputate duis autem vel eum iriure dolor in velit esse molestie consequat, illum nulla facilisis.
-                Lorem ipsum dolor sit amet, vix purto suscipiantur conclusionemque eu, purto omittam accusata usu et, latine omittam expetendis no mei. Vim ei nihil exerci populo. Stet perpetua ius et.
-                Vulputate duis autem vel eum iriure dolor in velit esse molestie consequat, illum nulla facilisis.
-                </p>
 
-                <h3 class="animated-element text-strong text-size-20 text-line-height-1 margin-bottom-20">What's our solution?</h3>
-                <p class="animated-element slow margin-bottom-30">Hendrerit in vulputate duis autem vel eum iriure dolor in velit esse molestie consequat, illum nulla facilisis.
-                Lorem ipsum dolor sit amet, vix purto suscipiantur conclusionemque eu, purto omittam accusata usu et, latine omittam expetendis no mei. Vim ei nihil exerci populo. Stet perpetua ius et.
-                Vulputate duis autem vel eum iriure dolor in velit esse molestie consequat, illum nulla facilisis.
-                </p>
-              </div>
+                <div class="line margin-bottom-60">
+                  <div class="margin2x">
+                    <div class="m-12 l-6 margin-m-bottom-30">
+                      <img src="img/img-01.jpg" alt="">
+                    </div>
+                    <div class="m-12 l-6">
+                      <h3 class="animated-element text-strong text-size-40 text-line-height-1 margin-bottom-20">ROLE IN CLUB: XXX</h3>
+                      <p class="animated-element slow margin-bottom-10"><b>Age: </b> 17 </p>
+                      <p class="animated-element slow margin-bottom-30"><b>Gender: </b> Female </p>
+
+                      <h3 class="animated-element text-strong text-size-20 text-line-height-1 margin-bottom-20">Skills and Personal Bio</h3>
+                      <p class="animated-element slow margin-bottom-30">Hendrerit in vulputate duis autem vel eum iriure dolor in velit esse molestie consequat, illum nulla facilisis.
+                      Lorem ipsum dolor sit amet, vix purto suscipiantur conclusionemque eu, purto omittam accusata usu et
+                      </p>
+                      <h3 class="animated-element text-strong text-size-20 text-line-height-1 margin-bottom-20">Why did you join Influx?</h3>
+                      <p class="animated-element slow margin-bottom-30">Hendrerit in vulputate duis autem vel eum iriure dolor in velit esse molestie consequat, illum nulla facilisis.
+                      Lorem ipsum dolor sit amet, vix purto suscipiantur conclusionemque eu, purto omittam accusata usu et,
+                      </p>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="line margin-bottom-60">
+                  <div class="margin2x">
+                    <div class="m-12 l-6">
+                      <h3 class="animated-element text-strong text-size-40 text-line-height-1 margin-bottom-20">ROLE IN CLUB: XXX</h3>
+                      <p class="animated-element slow margin-bottom-10"><b>Age: </b> 17 </p>
+                      <p class="animated-element slow margin-bottom-30"><b>Gender: </b> Female </p>
+
+                      <h3 class="animated-element text-strong text-size-20 text-line-height-1 margin-bottom-20">Skills and Personal Bio</h3>
+                      <p class="animated-element slow margin-bottom-30">Hendrerit in vulputate duis autem vel eum iriure dolor in velit esse molestie consequat, illum nulla facilisis.
+                      Lorem ipsum dolor sit amet, vix purto suscipiantur conclusionemque eu, purto omittam accusata usu et
+                      </p>
+                      <h3 class="animated-element text-strong text-size-20 text-line-height-1 margin-bottom-20">Why did you join Influx?</h3>
+                      <p class="animated-element slow margin-bottom-30">Hendrerit in vulputate duis autem vel eum iriure dolor in velit esse molestie consequat, illum nulla facilisis.
+                      Lorem ipsum dolor sit amet, vix purto suscipiantur conclusionemque eu, purto omittam accusata usu et,
+                      </p>
+                    </div>
+                    <div class="m-12 l-6 margin-m-bottom-30">
+                      <img src="img/img-01.jpg" alt="">
+                    </div>
+                  </div>
+                </div>
+
             </div>
           </div>
         </section>
       </article>
+
+      <hr class="break">
+      <!-- Section 4 -->
+      <section class="section-small-padding background-white text-center">
+        <div class="line">
+          <div class="s-12 m-12 l-9 center margin-bottom-30">
+            <h3 class="text-strong text-size-20 text-line-height-1 margin-bottom-10">MESSAGE HERE</h3>
+            <p>SECONDARY MESSAGE</p>
+          </div>
+        </div>
+        <div class="line">
+          <div class="s-12 m-12 l-3 center">
+            <a href="contact.php" class="s-12 button border-radius background-primary text-size-20 text-white">Contact Us</a>
+          </div>
+        </div>
+      </section>
     </main>
 
     <!-- FOOTER -->
