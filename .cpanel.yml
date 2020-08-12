@@ -1,7 +1,6 @@
 ---
 deployment:
   tasks:
-<<<<<<< HEAD
   - export DEPLOYPATH=/home/gypaza9q4r9s/public_html/
   - /bin/cp about-us.php $DEPLOYPATH
   - /bin/cp index.php $DEPLOYPATH
@@ -14,17 +13,3 @@ deployment:
   - /bin/cp -R includes $DEPLOYPATH
   - /bin/cp -R js $DEPLOYPATH
   - /bin/cp -R owl-carousel $DEPLOYPATH
-=======
-    - export DEPLOYPATH=/home/gypaza9q4r9s/public_html/
-    - /bin/cp about-us.php $DEPLOYPATH
-    - /bin/cp index.php $DEPLOYPATH
-    - /bin/cp contact.php $DEPLOYPATH
-    - /bin/cp our-mission.php $DEPLOYPATH
-    - /bin/cp services.php $DEPLOYPATH
-    - /bin/cp -R css $DEPLOYPATH
-    - /bin/cp -R font $DEPLOYPATH
-    - /bin/cp -R img $DEPLOYPATH
-    - /bin/cp -R includes $DEPLOYPATH
-    - /bin/cp -R js $DEPLOYPATH
-    - /bin/cp -R owl-carousel $DEPLOYPATH
->>>>>>> f7c63e7c00b0c4c3f23bf1d64e7162bd04a78374
