@@ -49,7 +49,7 @@
                     <div class="m-12 l-6">
                       <h3 class="animated-element text-strong text-size-40 text-line-height-1 margin-bottom-20">ROLE IN CLUB: XXX</h3>
                       <p class="animated-element slow margin-bottom-10"><b>Age: </b> 17 </p>
-                      <p class="animated-element slow margin-bottom-30"><b>Gender: </b> Female </p>
+                      <p class="animated-element slow margin-bottom-30"><b>Gender: </b> Male </p>
 
                       <h3 class="animated-element text-strong text-size-20 text-line-height-1 margin-bottom-20">Skills and Personal Bio</h3>
                       <p class="animated-element slow margin-bottom-30">Hendrerit in vulputate duis autem vel eum iriure dolor in velit esse molestie consequat, illum nulla facilisis.
@@ -66,7 +66,7 @@
                 <div class="line margin-bottom-60">
                   <div class="margin2x">
                     <div class="m-12 l-6">
-                      <h3 class="animated-element text-strong text-size-40 text-line-height-1 margin-bottom-20">ROLE IN CLUB: XXX</h3>
+                      <h3 class="animated-element text-strong text-size-40 text-line-height-1 margin-bottom-20">ROLE IN CLUB: DATA ANALYST, WEB DEVELOPER</h3>
                       <p class="animated-element slow margin-bottom-10"><b>Age: </b> 17 </p>
                       <p class="animated-element slow margin-bottom-30"><b>Gender: </b> Female </p>
 

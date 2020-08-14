@@ -29,7 +29,7 @@
       <ul class="logo-menu">
         <a href="index.php" class="logo">
           <!-- Logo White Version -->
-          <img class="logo-white" src="img/logo-light.png" alt="">
+          <img class="logo-white" src="img/Influx-Inversed.png" alt="">
           <!-- Logo Dark Version -->
           <img class="logo-dark" src="img/logo-dark.png" alt="">
         </a>

@@ -15,8 +15,7 @@
         <div class="s-12 m-6 l-3 xl-5">
            <h4 class="text-white text-strong">Our Mission</h4>
            <p>
-             We want to <b class="text-size-20">help out</b> the greater business communities by providing our insights regarding <b class="text-size-20">societal issues</b>: providing services to companies who are in need of <b class="text-size-20">top data analysis.</b>
-             To help out <b class="text-size-20">Greater business communities</b> by insights regarding<b class="text-size-20"> Societal issues</b>
+             Influx Analytics believes in letting <b class="text-size-20">the data</b> speak for itself. We apply big data analytics in hopes of <b class="text-size-20">combating "infobesity"</b> or information overload. By delivering <b class="text-size-20">accessible</b> and <b class="text-size-20">relavent</b> information, we hope to incite <b class="text-size-20">prosocial, sustainable</b> change.
            </p>
         </div>
         <div class="s-12 m-6 l-3 xl-3">
