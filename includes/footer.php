@@ -16,7 +16,7 @@
            <h4 class="text-white text-strong">Our Mission</h4>
            <p>
              We want to <b class="text-size-20">help out</b> the greater business communities by providing our insights regarding <b class="text-size-20">societal issues</b>: providing services to companies who are in need of <b class="text-size-20">top data analysis.</b>
-             To help out <b class="text-size-20">Greater business communities</b> by insights regarding<b class="text-size-20"> Societal issues</b>
+             to help out <b class="text-size-20">greater business communities</b> by insights regarding<b class="text-size-20"> societal issues</b>
            </p>
         </div>
         <div class="s-12 m-6 l-3 xl-3">
