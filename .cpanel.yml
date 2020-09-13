@@ -7,6 +7,7 @@ deployment:
     - /bin/cp contact.php $DEPLOYPATH
     - /bin/cp our-mission.php $DEPLOYPATH
     - /bin/cp services.php $DEPLOYPATH
+    - /bin/cp -R stories $DEPLOYPATH
     - /bin/cp -R css $DEPLOYPATH
     - /bin/cp -R font $DEPLOYPATH
     - /bin/cp -R img $DEPLOYPATH

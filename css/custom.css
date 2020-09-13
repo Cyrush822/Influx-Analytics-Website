@@ -1,0 +1,39 @@
+.figure-holder {
+  margin: 10%;
+  display: block;
+}
+
+.float-left {
+  float: left;
+}
+
+.float-right {
+  float: right;
+}
+
+.large-figure {
+  width: 50%;
+}
+
+.medium-figure {
+  width: 30%;
+}
+
+.small-figure {
+  width: 20%;
+}
+
+button.large-button {
+  font-size: 1.5rem;
+  padding: 1rem 2rem;
+}
+
+button.bottom {
+  position: absolute;
+  bottom: 40px;
+}
+
+div.story-section{
+  display: flex;
+  align-items: center;
+}

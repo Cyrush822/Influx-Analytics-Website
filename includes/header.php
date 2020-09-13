@@ -4,6 +4,7 @@
   <title>Influx Analytics - The power of Big Data</title>
   <link rel="shortcut icon" href="img/favicon.ico"/>
   <link rel="stylesheet" href="css/components.css">
+  <link rel="stylesheet" href="css/custom.css">
   <link rel="stylesheet" href="css/icons.css">
   <link rel="stylesheet" href="css/responsee.css">
   <link rel="stylesheet" href="owl-carousel/owl.carousel.css">

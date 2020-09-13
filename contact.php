@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+
 <html lang="en-US">
   <head>
     <?php include 'includes/header.php'; ?>
@@ -41,7 +42,9 @@
                   </div>
                   <div class="margin-left-60">
                     <h2 class="text-size-20 margin-bottom-10 text-strong">Company Address</h2>
-                    <p>Huang Yang rd, 345</p>
+                    <p>Building 3, 102</p>
+                    <p>Huang Yang rd, 360</p>
+                    <p>Pudong</p>
                     <p>Shanghai, China</p>
                   </div>
                 </div>
@@ -61,7 +64,7 @@
                     <i class="icon-sli-earphones-alt text-primary text-size-40 text-line-height-1"></i>
                   </div>
                   <div class="margin-left-60">
-                    <h2 class="text-size-20 margin-bottom-10 text-strong">Phone Numbers</h2>
+                    <h2 class="text-size-20 margin-bottom-10 text-strong">Phone Number</h2>
                     <p>+86 177 2134 1972</p>
                   </div>
                 </div>
@@ -79,7 +82,7 @@
             </div>
           </div>
           <div class="m-12 l-6">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3411.3505047671456!2d121.58918431505167!3d31.238718981463748!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x35b2765cf859bf73%3A0xa8bd7fe52aba1da8!2sConcordia%20International%20School%20Shanghai!5e0!3m2!1sen!2stw!4v1596644488210!5m2!1sen!2stw" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>" width="100%" height="600" frameborder="0" style="border:0"></iframe>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d838.1680908957192!2d121.59133669477878!3d31.240795999243723!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x35b276678ce10d2f%3A0x9ba9277fcd7f7744!2sBiyun%20International%20Community%20Xiaoyuan!5e0!3m2!1sen!2s!4v1600017236505!5m2!1sen!2s" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
           </div>
         </section>
 
@@ -87,11 +90,12 @@
         <section class="section background-dark">
           <div class="s-12 m-12 l-4 center">
             <h3 class="text-size-30 margin-bottom-40 text-center"><b>Contact Form</b></h3>
-            <form class="customform text-white" method="post" enctype="multipart/form-data">
+            <a name="form"></a>
+            <form class="customform text-white" method="post" action="contact.php#form" enctype="multipart/form-data">
               <div class="line">
                 <div class="margin">
                   <div class="s-12 m-12 l-6">
-                    <input name="email" class="required email" placeholder="Your e-mail" title="Your e-mail" type="text" />
+                    <input name="from" class="required email" placeholder="Your e-mail" title="Your e-mail" type="text" />
                   </div>
                   <div class="s-12 m-12 l-6">
                     <input name="name" class="name" placeholder="Your name" title="Your name" type="text" />
@@ -109,6 +113,20 @@
                 <div class="s-12"><button class="button border-radius text-white background-primary" type="submit">Send!</button></div>
               </div>
             </form>
+            <?php
+
+
+              if(array_key_exists("from",$_POST)) {
+
+                $subject = "Contact Us Form: " . $_POST["subject"];
+                $msg = "\nFrom: ". $_POST["name"]. "\nEmail:" .$_POST["from"];
+
+                mail("cyrus2021262@concordiashanghai.org", $subject, $msg);
+
+                echo "<h4 style='text-align:center'> Your message has been sent! Thanks for taking the time to contact us :)</h4>";
+              }
+
+            ?>
           </div>
         </section>
       </article>

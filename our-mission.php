@@ -24,14 +24,13 @@
         <!-- Section 1 -->
         <section class="section background-white">
           <div class="line text-center">
-            <i class="icon-sli-heart text-primary text-size-40"></i>
-            <h2 class="text-dark text-size-50 text-m-size-40">Why <b>are we doing this?</b></h2>
+            <h2 class="text-dark text-size-50 text-m-size-40"><b>Why </b>are we doing this?</h2>
             <hr class="break background-primary break-small break-center margin-bottom-50">
           </div>
           <div class="line">
             <div class="margin2x">
               <div class="m-12 l-6 margin-m-bottom-30">
-                <img src="img/img-01.jpg" alt="">
+                <img src="img/info-overload.jpg" alt="">
               </div>
               <div class="m-12 l-6">
                 <h3 class="animated-element text-strong text-size-20 text-line-height-1 margin-bottom-20">What's the problem?</h3>

@@ -31,7 +31,7 @@
       <section class="section-top-padding background-white">
         <div class="line text-center">
           <!-- <img class="logo-white small-logo" src="img/logo-dark.png" alt=""> -->
-          <h2 class="text-dark text-size-50 text-m-size-40"><b>What we do</b></h2>
+          <h2 class="text-dark text-size-50 text-m-size-40"><b>What We Do</b></h2>
           <hr class="break background-primary break-small break-center margin-bottom-50">
         </div>
         <div class="line margin-bottom-50">
@@ -172,13 +172,13 @@
       <!-- Section 4 -->
       <section class="background-primary full-width">
         <div class="m-12 l-6 xl-5 xxl-4">
-          <img class="full-img" src="img/img-02.jpg"/>
+          <img style="height: 450px; object-fit: cover" src="img/e-learning.jpg"/>
         </div>
         <div class="m-12 l-6 xl-7 xxl-8">
           <div class="l-12 xl-11 xxl-8 padding-2x">
-            <h2 class="text-l-size-40 text-size-50 text-white">Recent <b>Story</b></h2>
-            <p class="margin-bottom">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
-            Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip.</p>
+            <h2 class="text-l-size-40 text-size-40 text-white">Most recent story: <br><b>Education vs COVID-19</b></h2>
+            <p class="margin-bottom text-size-16">In light of the Coronavirus pandemic, the international education sector faces a new challenge. How should schools, teachers, and students effectively transition to distance learning in the 21st century? This study aims to investigate and analyze the actions employed by expat teachers in Southeast Asia, examining factors such as locational preferences, expected income post-COVID-19, and academic subjects taught.</p>
+            <button class="button border-radius background-white text-primary large-button bottom" onclick="location.href = 'stories/story1.php'">Keep Reading <div class="icon-chevron_right" style="display: inline; padding: 10px 0"></div></button>
           </div>
         </div>
       </section>
