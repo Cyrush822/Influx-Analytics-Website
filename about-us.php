@@ -26,7 +26,7 @@
             <div class="margin2x">
 
                 <div class="line margin-bottom-80">
-                  <div class="margin2x">
+                  <div class="margin2x vertical-align">
                     <div class="m-12 l-6 margin-m-bottom-30">
                       <img src="img/team-charles.jpg">
                     </div>
@@ -46,7 +46,7 @@
                 </div>
 
                 <div class="line margin-bottom-80">
-                  <div class="margin2x">
+                  <div class="margin2x vertical-align">
                     <div class="m-12 l-6">
                       <h3 class="animated-element text-strong text-size-40 text-line-height-1 margin-bottom-20">Alex: Research Developer, Business Coordinator</h3>
                       <p class="animated-element slow margin-bottom-10"><b>Age: </b> 17 </p>
@@ -66,7 +66,7 @@
                 </div>
 
                 <div class="line margin-bottom-80">
-                  <div class="margin2x">
+                  <div class="margin2x vertical-align">
                     <div class="m-12 l-6 margin-m-bottom-30">
                       <img src="img/team-athena.jpg">
                     </div>
@@ -86,7 +86,7 @@
                 </div>
 
                 <div class="line margin-bottom-20">
-                  <div class="margin2x">
+                  <div class="margin2x vertical-align">
                     <div class="m-12 l-6">
                       <h3 class="animated-element text-strong text-size-40 text-line-height-1 margin-bottom-20">Cyrus: Lead Web Developer</h3>
                       <p class="animated-element slow margin-bottom-10"><b>Age: </b> 17 </p>

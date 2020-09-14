@@ -33,7 +33,7 @@ button.bottom {
   bottom: 40px;
 }
 
-div.story-section{
+div.vertical-align {
   display: flex;
   align-items: center;
 }

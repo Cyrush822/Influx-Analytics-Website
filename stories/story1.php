@@ -35,7 +35,7 @@
                 </div>
 
                 <div class="line margin-bottom-60">
-                  <div class="margin2x story-section">
+                  <div class="margin2x vertical-align">
                     <!-- <div>
                       <div class="figure-holder">
                         <img src="../img/1.1.png" alt="" class="float-right large-figure">
@@ -53,9 +53,8 @@
                     </div>
                   </div>
                 </div>
-
                 <div class="line margin-bottom-60">
-                  <div class="margin2xstory-section">
+                  <div class="margin2x vertical-align">
                     <div class="m-12 l-6 margin-m-bottom-30">
                       <img src="../img/1.2.png" alt="">
                       <p class="animated-element slow margin-bottom-10 text-center">Figure 2</p>
@@ -69,7 +68,7 @@
                 </div>
 
                 <div class="line margin-bottom-60">
-                  <div class="margin2x story-section">
+                  <div class="margin2x vertical-align">
                     <div class="m-12 l-6" style="padding-left: 0; padding-right: 0">
                       <div>
                         <h3 class="animated-element text-size-20 text-line-height-3 margin-bottom-20">Given the significance of money, what do expat teachers in Southeast Asia expect to make after COVID-19? Could it possibly be related to the subject matter being taught? Through IBM’s Cognos Analytics, this study reveals that a combination of teacher income before COVID-19 and the subjects they teach has the highest predictive strength (83%) on this target (Figure 3). Specifically, according to Figure 4, it appears that teachers who teach STEM-related subjects and social science-related subjects are most optimistic. At the same time, there are three combinations each with a predictive strength of 80% on this target: the income before COVID-19 and the intent to return to their home country to teach; the income before COVID-19 and the amount of time they have been teaching at their current country; the income before COVID-19 and if they feel connected to and encouraged by expat communities. </h3>
@@ -83,7 +82,7 @@
                 </div>
 
                 <div class="line margin-bottom-60">
-                  <div class="margin2x story-section">
+                  <div class="margin2x vertical-align">
                     <div class="m-12 l-6 margin-m-bottom-30">
                       <img src="../img/1.4.png" alt="">
                       <p class="animated-element slow margin-bottom-10 text-center">Figure 4</p>
