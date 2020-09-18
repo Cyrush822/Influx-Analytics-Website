@@ -14,7 +14,7 @@
         <!-- Header -->
         <header class="section background-image text-center" style="background-image:url(img/img-05.jpg)">
           <h1 class="animated-element slow text-extra-thin text-white text-s-size-30 text-m-size-40 text-size-50 text-line-height-1 margin-bottom-30 margin-top-130">
-            Contact Us
+            <b>Contact Us</b>
           </h1>
           <p class="animated-element text-white"></p>
 

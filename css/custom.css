@@ -33,7 +33,12 @@ button.bottom {
   bottom: 40px;
 }
 
-div.vertical-align {
+div.vertical-center {
   display: flex;
   align-items: center;
+}
+
+div.horizontal-center {
+  display: flex;
+  justify-content: center;
 }

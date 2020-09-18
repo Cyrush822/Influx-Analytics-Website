@@ -13,7 +13,7 @@
         <!-- Header -->
         <header class="section background-image text-center" style="background-image:url(img/team-banner.jpg)">
           <h1 class="animated-element slow text-extra-thin text-white text-s-size-30 text-m-size-40 text-size-50 text-line-height-1 margin-bottom-30 margin-top-130">
-            Meet the team
+            <b>Meet the team</b>
           </h1>
 
           <!-- white full width arrow object -->
@@ -26,7 +26,7 @@
             <div class="margin2x">
 
                 <div class="line margin-bottom-80">
-                  <div class="margin2x vertical-align">
+                  <div class="margin2x vertical-center">
                     <div class="m-12 l-6 margin-m-bottom-30">
                       <img src="img/team-charles.jpg">
                     </div>
@@ -46,9 +46,9 @@
                 </div>
 
                 <div class="line margin-bottom-80">
-                  <div class="margin2x vertical-align">
+                  <div class="margin2x vertical-center">
                     <div class="m-12 l-6">
-                      <h3 class="animated-element text-strong text-size-40 text-line-height-1 margin-bottom-20">Alex: Research Developer, Business Coordinator</h3>
+                      <h3 class="animated-element text-strong text-size-40 text-line-height-1 margin-bottom-20">Alex: Cofounder, Lead Research and Business Coordinator</h3>
                       <p class="animated-element slow margin-bottom-10"><b>Age: </b> 17 </p>
                       <p class="animated-element slow margin-bottom-30"><b>Gender: </b> Male </p>
 
@@ -66,7 +66,7 @@
                 </div>
 
                 <div class="line margin-bottom-80">
-                  <div class="margin2x vertical-align">
+                  <div class="margin2x vertical-center">
                     <div class="m-12 l-6 margin-m-bottom-30">
                       <img src="img/team-athena.jpg">
                     </div>
@@ -86,7 +86,7 @@
                 </div>
 
                 <div class="line margin-bottom-20">
-                  <div class="margin2x vertical-align">
+                  <div class="margin2x vertical-center">
                     <div class="m-12 l-6">
                       <h3 class="animated-element text-strong text-size-40 text-line-height-1 margin-bottom-20">Cyrus: Lead Web Developer</h3>
                       <p class="animated-element slow margin-bottom-10"><b>Age: </b> 17 </p>
@@ -116,7 +116,8 @@
       <section class="section-small-padding background-white text-center">
         <div class="line">
           <div class="s-12 m-12 l-9 center margin-bottom-30">
-            <h3 class="text-strong text-size-20 text-line-height-1 margin-bottom-10">Together, we bring about the change we wish to see.</h3>
+            <h3 class="text-strong text-size-20 text-line-height-1 margin-bottom-10"><b>We are four passionate students that seek to uncover true conclusions that the world needs. Through extensive learning and experience, we aim to provide the top of the line assistance and innovative research!</b>
+</h3>
           </div>
         </div>
         <div class="line">

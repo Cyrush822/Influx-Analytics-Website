@@ -11,7 +11,7 @@
       <!-- Header -->
       <header class="section-top-padding background-image text-center" style="background-image:url(img/img-05.jpg)">
         <h1 class="text-extra-thin text-white text-s-size-30 text-m-size-40 text-size-50 text-line-height-1 margin-bottom-40 margin-top-130">
-          The Power of Big Data at Your Fingertips
+          <b>The Power of Big Data at Your Fingertips</b>
         </h1>
         <p class="text-white">Influx Analytics believes in letting the data speak for itself.<br>
           We apply big data analytics in hopes of combating "infobesity" or information overload.<br>
