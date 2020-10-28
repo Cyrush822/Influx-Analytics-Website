@@ -39,9 +39,10 @@
       <div class="top-nav right-menu">
          <ul class="top-ul chevron">
             <li>
-              <a href="stories/story1.php">Our Stories</a>
+              <a href="stories/story2.php">Our Stories</a>
               <ul>
                 <li><a href="stories/story1.php">Story 1</a></li>
+                <li><a href="stories/story2.php">Story 2</a></li>
                 <!-- <li><a>Story 2</a></li> -->
               </ul>
             </li>

@@ -31,7 +31,7 @@
                       <img src="img/team-charles.jpg">
                     </div>
                     <div class="m-12 l-6">
-                      <h3 class="animated-element text-strong text-size-40 text-line-height-1 margin-bottom-20">Charles: Founder, Operations Officer, Research Analyst</h3>
+                      <h3 class="animated-element text-strong text-size-40 text-line-height-1 margin-bottom-20">Charles: Founder, Lead Operations Coordinator, Researcher</h3>
                       <p class="animated-element slow margin-bottom-10"><b>Age: </b> 17 </p>
                       <p class="animated-element slow margin-bottom-30"><b>Gender: </b> Male </p>
 
@@ -48,7 +48,7 @@
                 <div class="line margin-bottom-80">
                   <div class="margin2x vertical-center">
                     <div class="m-12 l-6">
-                      <h3 class="animated-element text-strong text-size-40 text-line-height-1 margin-bottom-20">Alex: Cofounder, Lead Research and Business Coordinator</h3>
+                      <h3 class="animated-element text-strong text-size-40 text-line-height-1 margin-bottom-20">Alex: Founder, Business Coordinator, Researcher</h3>
                       <p class="animated-element slow margin-bottom-10"><b>Age: </b> 17 </p>
                       <p class="animated-element slow margin-bottom-30"><b>Gender: </b> Male </p>
 
@@ -71,7 +71,7 @@
                       <img src="img/team-athena.jpg">
                     </div>
                     <div class="m-12 l-6">
-                      <h3 class="animated-element text-strong text-size-40 text-line-height-1 margin-bottom-20">Athena: Data Analyst, Web Developer</h3>
+                      <h3 class="animated-element text-strong text-size-40 text-line-height-1 margin-bottom-20">Athena: Founder, Lead Data Analyst, Web Designer</h3>
                       <p class="animated-element slow margin-bottom-10"><b>Age: </b> 17 </p>
                       <p class="animated-element slow margin-bottom-30"><b>Gender: </b> Female </p>
 
@@ -88,7 +88,7 @@
                 <div class="line margin-bottom-20">
                   <div class="margin2x vertical-center">
                     <div class="m-12 l-6">
-                      <h3 class="animated-element text-strong text-size-40 text-line-height-1 margin-bottom-20">Cyrus: Lead Web Developer</h3>
+                      <h3 class="animated-element text-strong text-size-40 text-line-height-1 margin-bottom-20">Cyrus: Founder, Lead Web Developer</h3>
                       <p class="animated-element slow margin-bottom-10"><b>Age: </b> 17 </p>
                       <p class="animated-element slow margin-bottom-30"><b>Gender: </b> Male </p>
 
