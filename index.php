@@ -176,7 +176,7 @@
         </div>
         <div class="m-12 l-6 xl-7 xxl-8">
           <div class="l-12 xl-11 xxl-8 padding-2x">
-            <h2 class="text-l-size-40 text-size-40 text-white">Most recent story: <br><b>Reopening amidst COVID-19</b></h2>
+            <h2 class="text-l-size-40 text-size-40 text-white">Most recent story: <br><b>COVID-19 Reopenings</b></h2>
             <p class="margin-bottom text-size-16">hile certain institutions lie, give false information, and give false hope, numbers do not. Every single second, new cases are reported. On that account, this study observes how the national decisions made by 211 countries are impacted by numerous factors such as COVID-19. Specifically, it analyzes and pinpoints the key factors governments are considering when operating schools during the coronavirus. How does a government decide on if their educational institutions should be open or closed? Is it even safe? Keep reading, and find out.</p>
             <button class="button border-radius background-white text-primary large-button bottom" onclick="location.href = 'stories/story2.php'">Keep Reading <div class="icon-chevron_right" style="display: inline; padding: 10px 0"></div></button>
           </div>
