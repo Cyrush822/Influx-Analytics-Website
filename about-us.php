@@ -43,7 +43,7 @@
                     <div class="flex-vertical">
                       <input type="image" src="img/team-athena.jpg" name="athena" id="athenaPic" style="margin-bottom: 1rem; max-height: 25rem;" />
                       <h2><b>Athena Ru</b></h2>
-                      <h3> Lead Data Analyst, Branding Designer </h3>
+                      <h3> Lead Data Analyst, Brand Designer </h3>
                     </div>
                   </div>
                   <div class="m-12 l-6 margin-m-bottom-30">
