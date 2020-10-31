@@ -11,7 +11,7 @@
     <main role="main">
       <article>
         <!-- Header -->
-        <header class="section background-image text-center" style="background-image:url(img/team-banner.jpg); padding: 12rem 1.25rem">
+        <header class="section background-image text-center" style="background-image:url(img/team-banner.jpg);">
           <h1 class="animated-element slow text-extra-thin text-white text-s-size-30 text-m-size-40 text-size-50 text-line-height-1 margin-bottom-30 margin-top-130">
             <b>Meet the team</b>
           </h1>
@@ -27,28 +27,28 @@
                 <div class="margin2x vertical-center">
                   <div class="m-12 l-6 margin-m-bottom-30">
                     <div class="flex-vertical">
-                      <input type="image" src="img/team-charles.jpg" name="charles" id="charlesPic" style="margin-bottom: 1rem; max-height: 30rem;" />
+                      <input type="image" src="img/team-charles.jpg" name="charles" id="charlesPic" style="margin-bottom: 1rem; max-height: 25rem;" />
                       <h2><b>Charles Wang</b></h2>
                       <h3> Operations Coordinator </h3>
                     </div>
                   </div>
                   <div class="m-12 l-6 margin-m-bottom-30">
                     <div class="flex-vertical">
-                      <input type="image" src="img/team-alex.jpg" name="alex" id="alexPic" style="margin-bottom: 1rem; max-height: 30rem;" />
+                      <input type="image" src="img/team-alex.jpg" name="alex" id="alexPic" style="margin-bottom: 1rem; max-height: 25rem;" />
                       <h2><b>Alex Gao</b></h2>
                       <h3> Business Coordinator </h3>
                     </div>
                   </div>
                   <div class="m-12 l-6 margin-m-bottom-30">
                     <div class="flex-vertical">
-                      <input type="image" src="img/team-athena.jpg" name="athena" id="athenaPic" style="margin-bottom: 1rem; max-height: 30rem;" />
+                      <input type="image" src="img/team-athena.jpg" name="athena" id="athenaPic" style="margin-bottom: 1rem; max-height: 25rem;" />
                       <h2><b>Athena Ru</b></h2>
                       <h3> Lead Data Analyst, Branding Designer </h3>
                     </div>
                   </div>
                   <div class="m-12 l-6 margin-m-bottom-30">
                     <div class="flex-vertical">
-                      <input type="image" src="img/team-cyrus.jpg" name="cyrus" id="cyrusPic" style="margin-bottom: 1rem; max-height: 30rem;" />
+                      <input type="image" src="img/team-cyrus.jpg" name="cyrus" id="cyrusPic" style="margin-bottom: 1rem; max-height: 25rem;" />
                       <h2><b>Cyrus Hung</b></h2>
                       <h3> Lead Web Developer </h3>
                     </div>
@@ -57,15 +57,15 @@
               </div>
             </div>
             <div class="margin2x " style="border-style: solid; padding: 1rem 1rem">
-              <h3 class="animated-element text-strong text-size-50 text-line-height-1 margin-bottom-20" id="name">Charles Wang</h3>
-              <p class="animated-element slow margin-bottom-10 text-size-30" id="age"><b>Age: </b> 17 </p>
-              <p class="animated-element slow margin-bottom-30 text-size-30" id="pronouns"><b>Pronouns: </b> He/Him </p>
+              <h3 class="animated-element text-strong text-size-40 text-line-height-1 margin-bottom-20" id="name">Charles Wang</h3>
+              <p class="animated-element slow margin-bottom-10 text-size-20" id="age"><b>Age: </b> 17 </p>
+              <p class="animated-element slow margin-bottom-30 text-size-20" id="pronouns"><b>Pronouns: </b> He/Him </p>
 
-              <h3 class="animated-element text-strong text-size-30 text-line-height-1 margin-bottom-20">Skills and Personal Bio</h3>
-              <p class="animated-element slow margin-bottom-30 text-size-20" id="bio">Charles Wang has worked on numerous data analytical projects. Driven by his passion for Data Science, he uses every opportunity to showcase how powerful data can truly be. He founded Influx Analytics to deliver accessible and relevant information for sustainable change and hopes, with his leadership, this project can be brought to life. Charles has also worked on AI Breast Cancer Data Image Processing at a Tencent-backed healthcare company known as WeDoctor, whilst also tracking and treating live Covid-19 cases and outbreaks across the world with data analytics programs. Whilst at Northwestern University Equinox Program he published a research paper about fascinating correlations in the sports realm. He strives to impact his community and the world.
+              <h3 class="animated-element text-strong text-size-20 text-line-height-1 margin-bottom-20">Skills and Personal Bio</h3>
+              <p class="animated-element slow margin-bottom-30 text-size-10" id="bio">Charles Wang has worked on numerous data analytical projects. Driven by his passion for Data Science, he uses every opportunity to showcase how powerful data can truly be. He founded Influx Analytics to deliver accessible and relevant information for sustainable change and hopes, with his leadership, this project can be brought to life. Charles has also worked on AI Breast Cancer Data Image Processing at a Tencent-backed healthcare company known as WeDoctor, whilst also tracking and treating live Covid-19 cases and outbreaks across the world with data analytics programs. Whilst at Northwestern University Equinox Program he published a research paper about fascinating correlations in the sports realm. He strives to impact his community and the world.
               </p>
-              <h3 class="animated-element text-strong text-size-30 text-line-height-1 margin-bottom-20">Why did you join Influx?</h3>
-              <p class="animated-element slow margin-bottom-30 text-size-20" id="why">Charles Wang founded Influx Analytics in 2020 during the Coronavirus pandemic. Since January, he has been bombarded by a myriad of headlines regarding Covid-19's impact on politics and economics. Yet there was a community underrepresented: students. Charles believes that through data and its analysis, he and the Influx Analytics team could bring necessary information to the public. Furthermore, Charles thought that he could take this opportunity to put out further research and analysis on other important events around the world.
+              <h3 class="animated-element text-strong text-size-20 text-line-height-1 margin-bottom-20">Why did you join Influx?</h3>
+              <p class="animated-element slow margin-bottom-30 text-size-10" id="why">Charles Wang founded Influx Analytics in 2020 during the Coronavirus pandemic. Since January, he has been bombarded by a myriad of headlines regarding Covid-19's impact on politics and economics. Yet there was a community underrepresented: students. Charles believes that through data and its analysis, he and the Influx Analytics team could bring necessary information to the public. Furthermore, Charles thought that he could take this opportunity to put out further research and analysis on other important events around the world.
               </p>
             </div>
 
