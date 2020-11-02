@@ -12,15 +12,27 @@
       <article>
         <!-- Header -->
         <header class="section background-image text-center" style="background-image:url(img/team-banner.jpg);">
-          <h1 class="animated-element slow text-extra-thin text-white text-s-size-30 text-m-size-40 text-size-50 text-line-height-1 margin-bottom-30 margin-top-130">
-            <b>Meet the team</b>
+          <h1 class="animated-element slow text-extra-thin text-white text-s-size-30 text-m-size-40 text-size-50 text-line-height-1 margin-bottom-50 margin-top-80">
+            <b>Meet</b>
           </h1>
+           <h1 class="animated-element slow text-extra-thin text-white text-s-size-30 text-m-size-40 text-size-50 text-line-height-1 margin-bottom-20 margin-top-15">
+            <b>The Team</b>
+          </h1>        
+
 
           <!-- white full width arrow object -->
           <img class="arrow-object" src="img/arrow-object-white.svg" alt="">
         </header>
 
-        <section class="section background-white">
+      <section class="text-center margin-top-30">
+        <div class="line">
+          <div class="s-12 m-12 l-9 center">
+            <h3 class="text-strong text-size-20 text-line-height-1 margin-bottom-10"><b>Click Us!</b></h3>
+           </div>
+        </div>
+      </section>
+
+        <section class="section-top-small-padding background-white">
           <div class="line" style="max-width: 100rem;">
             <div class="margin2x">
               <div class="line margin-bottom-80" style="max-width: 100rem;">
